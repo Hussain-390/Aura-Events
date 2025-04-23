@@ -72,4 +72,3 @@ Replace placeholder images in the images/ folder.
 Ensure internet access for CDN-hosted Swiper and Font Awesome.
 Test LocalStorage functionality across pages.
 For further customization (e.g., specific event types), edit content in HTML files.
-
